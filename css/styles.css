@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(194, 241, 241);
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+}
+
+p{
+    font-family: Montserrat, sans-serif;
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 180px;
+
+}
+
+.top-cloud{
+    position: relative;
+    left: 25%;
+}
+
